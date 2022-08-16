@@ -2,8 +2,8 @@
 banner:
   enable : true
   title : "ImageXD 2023"
-  bg_image: "images/header.jpg"
-  date_time : "Coming Soon"
+  bg_image: "images/header2.jpg"
+  date_time : "Coming March 2023"
   button:
     enable : "Discover more"
     label : "See Previous Program"

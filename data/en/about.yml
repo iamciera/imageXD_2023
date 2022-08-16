@@ -3,9 +3,10 @@ about:
   enable : true
   image : "images/about.jpg"
   title : "ImageXD"
-  content : "ImageXD convenes researchers, scientists, and theorists (of all learning levels) who work with 
+  content : "The 6th Annual ImageXD will take place March 2023.  ImageXD convenes researchers, scientists, and theorists (of all learning levels) who work with 
   images as a primary source of data, to learn about the latest developments in a variety of fields and to 
-  promote interdisciplinary collaboration. All researchers, scientists, and theorists who work with images as a primary source of data are welcome and encouraged to attend this event. "
+  promote interdisciplinary collaboration. All researchers, scientists, and theorists who work with images as a primary source of data are welcome and encouraged to 
+  attend this event. Hosted by the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu/) and [The Acedemic Data Science Alliance (ADSA)](https://academicdatascience.org/)"
 ################## sponsor ###############################
 sponsor:
   enable : false
