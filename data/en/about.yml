@@ -1,22 +1,24 @@
 ################## about #################################
 about:
   enable : true
-  image : "images/bg/ctg.jpg"
-  title : "Inovation & **Inspiration** Connect People"
-  content : "The Event Company is an event design and production company that specializes in corporate and social events as well as non-profit fundraisers. We consider ourselves experts when it comes to event fundraising and public/media relations and offer consultation services to our clients to help make their event a sensational success."
+  image : "images/about.jpg"
+  title : "ImageXD"
+  content : "ImageXD convenes researchers, scientists, and theorists (of all learning levels) who work with 
+  images as a primary source of data, to learn about the latest developments in a variety of fields and to 
+  promote interdisciplinary collaboration. All researchers, scientists, and theorists who work with images as a primary source of data are welcome and encouraged to attend this event. "
 ################## sponsor ###############################
 sponsor:
-  enable : true
+  enable : false
   # sponsor data comes from "homepage.yml" file
 
 
 ################## Feature ##############################
 feature:
-  enable : true
+  enable : false
   subtitle : "10% Sale offer for early birds"
   title : "Meet top **digital masters** & influencers in a unique **3-days** experience."
   button:
-    enable : true
+    enable : false
     label : "Get ticket"
     link : "pricing"
   

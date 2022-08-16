@@ -1,17 +1,17 @@
 ############################# banner ################################
 banner:
   enable : true
-  title : "The future <br> & Tech Expo"
-  bg_image: "images/banner/banner-2.jpg"
-  date_time : "November 12, at 10.00am"
+  title : "ImageXD 2023"
+  bg_image: "images/header.jpg"
+  date_time : "Coming Soon"
   button:
     enable : "Discover more"
-    label : "Discover more"
-    link : "service"
+    label : "See Previous Program"
+    link : "https://bids.berkeley.edu/bids-imagexd-2021-event-program"
 
 ########################## timer #################################
 timer:
-  enable : true
+  enable : false
   title : "**Count the day** <br> until conference start"
   # set timer
   year: "2020"
@@ -21,7 +21,7 @@ timer:
 
 ############################## Event ##############################
 event:
-  enable : true
+  enable : false
   title_outline : "event"
   title : "The New Era of Tech Companies"
   image_back : "images/about/h1-gallery-img-7.jpg"
@@ -29,24 +29,24 @@ event:
   content : "Lorem ipsum proin gravida nibh vel velit auctor aliquet. Aeneansollicitudin, lorem quis bibendum
               auctonisi elit consequat ipsum nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursusa sit nibh vel velit."
   button:
-    enable : true
+    enable : false
     label : "Discover More"
     link : "service"
 
 ######################### Call to action #########################
 cta:
-  enable : true
+  enable : false
   subtitle : "10% Sale offer for early birds"
   title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
   image : "images/banner/rev-slider-09.png"
   button:
-    enable : true
+    enable : false
     label : "get ticket"
     link : "pricing"
 
 ############################# Feature ###########################
 feature:
-  enable: true
+  enable: false
   feature_item: 
     # feature item loop
     - name : "Valuable Insight"
@@ -65,17 +65,17 @@ feature:
 
 ####################### Schedule #############################
 schedule:
-  enable : true
+  enable : false
   # schedule data comes from "schedule.yml" file
 
 ####################### pricing #############################
 pricing:
-  enable : true
+  enable : false
   # pricing data comes from "pricing.yml" file
 
 ########################## speaker ##########################
 speaker:
-  enable : true
+  enable : false
   title_outline : "Speakers"
   title : "Who're speaking"
   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
@@ -83,7 +83,7 @@ speaker:
 
 ######################### sponsor ############################
 sponsor:
-  enable :  true
+  enable :  false
   title_outline : "Sponsors"
   title : "Amazing Partners & Sponsors"
   sponsor_group:
@@ -151,7 +151,7 @@ sponsor:
   
   # call to action in sponsor
   sponsorship:
-    enable : true
+    enable : false
     title : "Want to be a sponsor ?"
     #button
     label : "apply now"
@@ -159,19 +159,19 @@ sponsor:
 
 ################################ venue ########################
 venue:
-  enable : true
+  enable : false
   title : "Venue location"
   image : "images/bg/cta-bg.jpg"
   date : "18 - 21 December, 2019"
   location : "85 Golden Street, Darlinghurst <br>ERP 2019, United States"
   button: 
-    enable : true
+    enable : false
     label : "View Map location"
     link : "contact"
 
 ############################### Blog ######################################
 blog:
-  enable : true
+  enable : false
   title_outline : "News"
   title : "Latest News"
   content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
