@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://iamciera.github.io/textXD_2023"
+baseURL = "https://iamciera.github.io"
 title = "ImageXD "
 theme = "vixcon-hugo"
 # post pagination
