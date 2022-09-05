@@ -13,7 +13,7 @@
           <span>{{ .date_time }}</span>
           <h1 class="mt-3 mb-5">{{ .title | markdownify }}</h1>
           <h2>Image Analysis Across Domains</h2>
-          <h3>Sponsored by <a href="https://bids.berkeley.edu/">BIDS</a> and <a href="https://academicdatascience.org/">ADSA</a></h3>
+          <h3>March 16-17, 2023</a></h3>
           <br>
           {{ if .button.enable }}
           {{ with .button }}
@@ -49,6 +49,19 @@
 {{ end }}
 {{ end }}
 <!-- /timer -->
+
+<section class="cta-2 section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <h4>Sponsored by:</h4><br>
+        <a href="https://bids.berkeley.edu/" target="_blank" rel="noopener noreferrer"><img src="https://www.textxd.org/images/bids_logo_2.png" width="300" alt="" class="img-fluid"></a>
+      </div>
+      <div class="col-lg-4">
+         <h4><br/></h4><br>
+        <a href="https://academicdatascience.org/" target="_blank" rel="noopener noreferrer"><img src="https://informatics.institute.ufl.edu/wp-content/uploads/2020/03/Image-Academic-Data-Science-Alliance-300x124.png" width="1000" alt="" class="img-fluid"></a> 
+  </div>
+</section>
 
 <!-- event  -->
 {{ if $data.homepage.event.enable }}

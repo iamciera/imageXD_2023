@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "ImageXD 2023"
   bg_image: "images/header2.jpg"
-  date_time : "Coming March 2023"
+  date_time : "BIDS and ADSA presents"
   button:
     enable : "Discover more"
     label : "See Previous Program"
@@ -11,13 +11,13 @@ banner:
 
 ########################## timer #################################
 timer:
-  enable : false
+  enable : true
   title : "**Count the day** <br> until conference start"
   # set timer
-  year: "2020"
-  month: "09"
-  day: "01"
-  hour: "01"
+  year: "2023"
+  month: "03"
+  day: "16"
+  hour: "08"
 
 ############################## Event ##############################
 event:
